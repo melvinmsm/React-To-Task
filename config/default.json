@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mel:abcd1234@to-docluster.rueb3.mongodb.net/test",
+  "jwtSecret": "mel_taskJWT"
+}
